@@ -7,3 +7,5 @@ You may rewrite in English from sratch using your own words or translate to othe
 R-1 = 2^^3^^2
 
 Bharati Krishna Metric and few yantra daigrams used for my reference included in the repo.
+
+Author: Rohit Kulkarni
