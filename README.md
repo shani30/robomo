@@ -1,13 +1,11 @@
 # robomo
 
-You may not modify the orignal pdf file. The file can be redistributed using any means.
-
-You may rewrite in English from sratch using your own words or translate to other languages.
+Do not modify the original pdf file. Can be rewritten from scratch.
 
 R-1 = 2^^3^^2
 
 Bharati Krishna Metric and few yantra daigrams used for my reference included in the repo.
 
-Author: Rohit Kulkarni
+Author: R. Kulkarni
 
-Thanks to the Srijan Foundation
+Thanks to the Srijan Foundation and Scishow
