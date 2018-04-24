@@ -9,3 +9,5 @@ R-1 = 2^^3^^2
 Bharati Krishna Metric and few yantra daigrams used for my reference included in the repo.
 
 Author: Rohit Kulkarni
+
+Thanks to the Srijan Foundation
